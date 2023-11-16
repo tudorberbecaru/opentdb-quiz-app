@@ -11,9 +11,9 @@ This Quiz App fetches questions from the Open Trivia Database API, allowing user
 
 ### Prerequisites
 
-- Python 3
+- Python 3.x
 - Tkinter library (usually included with Python)
-- Requests 2.31.0
+- Requests
 
 ### Steps
 
