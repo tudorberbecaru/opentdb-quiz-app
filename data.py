@@ -2,8 +2,8 @@ import requests
 
 # Open Trivia DB API URL and parameters for fetching quiz questions
 URL = "https://opentdb.com/api.php"
-AMOUNT = 10  # Number of questions for the quiz
-CATEGORY = 18  # Category ID for Science: Computers (Check https://opentdb.com/api_category.php)
+AMOUNT = 10            # Number of questions for the quiz
+CATEGORY = 18          # Category ID for Science: Computers (Check https://opentdb.com/api_category.php)
 DIFFICULTY = "medium"  # Difficulty level: 'easy', 'medium', or 'hard'
 
 # API parameters
